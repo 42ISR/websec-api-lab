@@ -1,4 +1,4 @@
-# https://milokxs.kitek-pg.ru/api/marketplace/items
+# %СЮДА_ВСТАВИТЬ_ВАШ_САБДОМЕН/api/marketplace%
 
 # Лабораторная: Деплой API
 

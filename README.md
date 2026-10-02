@@ -268,11 +268,3 @@ docker logs swag --tail 50
 ```bash
 curl https://%ваш_сабдомен%.kitek-pg.ru/api/marketplace/items
 ```
-
----
-
-# 11. Сделать коммит
-
-Закоммитить `Dockerfile`, `.dockerignore`, `package.json`, `package-lock.json`, `index.js` и изменения в `docker-compose.yaml` в репозиторий лабораторной в ветку `wip` и сделать пул-реквест.
-
-В коммит **не** добавляйте `node_modules` и `database.json` с реальными данными.

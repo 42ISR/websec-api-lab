@@ -43,9 +43,11 @@ curl -I https://%ваш_сабдомен%.kitek-pg.ru
 Создайте каталог для бэкенда рядом с `docker-compose.yaml`:
 
 ```bash
-mkdir marketplace-backend
-cd marketplace-backend
+git clone https://github.com/41ISR-2026/webdev-lab8
+mv webdev-lab8/backend marketplace-backend
 ```
+
+И удалите папку webdev-lab8
 
 Структура проекта должна быть такой:
 
